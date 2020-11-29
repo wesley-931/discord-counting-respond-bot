@@ -1,9 +1,9 @@
 {
-    "name": "greeter-bot",
-    "version": "1.0.0",
-    "description": "My First Discord Bot",
+    "name": "counting-bot",
+    "version": "4.0.0",
+    "description": "My first counting bot",
     "main": "bot.js",
-    "author": "Your Name",
+    "author": "Wesley931",
     "dependencies": {
         "discord.js": "11.5.0",
         "winston": "^3.3.3"
