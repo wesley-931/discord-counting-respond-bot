@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const { cli } = require('winston/lib/winston/config');
+
 const client = new Discord.Client({});
 
 // Static items.
