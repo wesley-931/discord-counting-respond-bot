@@ -109,13 +109,7 @@ client.on('ready', () => {
  
 // Dont edit anything below unless you know what you are doing
 client.on('message', msg => {
-    if(msg.author.username !== "counting"){
-        sendNextNumber(msg);
-    } else {
-        if (msg.channel.id == channelIdForCounting) {
-            stop = true;
-        }
-    }
+    sendNextNumber(msg);
 });
 
  
