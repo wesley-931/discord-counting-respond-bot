@@ -1,5 +1,7 @@
 # Discord counting respond bot
-This code will result in setting up a automated script that will respond to you when counting in a specific discord channel. Best result when using a account token instead of a bot token.
+This code will result in setting up a automated script that will respond to you when counting in a specific discord channel.
+
+Ever felt lonely and dont have anyone to count with. Well congratz here is the counting bot you need. Make sure to get a token from the discord application website.
 
 # Set-up
 
