@@ -8,4 +8,4 @@ Ever felt lonely and dont have anyone to count with. Well congratz here is the c
 - 1 First make sure you have node.js installed preferred node [v12](https://nodejs.org/dist/latest-v12.x/) or lower.
 - 2 Open a command line in the folder and run ```npm install ```
 - 3 Edit the variables that are in the bot.js
-- 4 run the shortcut to auto start the bot
+- 4 run the batch file to auto start the bot
